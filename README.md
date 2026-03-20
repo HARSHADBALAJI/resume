@@ -1,4 +1,4 @@
-# 📄 Professional Resume
+
 
 A simple repository hosting the latest PDF version of my technical resume for quick recruiter access and reference.
 
